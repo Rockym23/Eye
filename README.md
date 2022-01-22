@@ -13,4 +13,4 @@ Agregarle un header, y simular el parpadeo de los ojos.
 
 
 ## Exercise on eyes
-<img src= "eyes.png" width='300' height='300'/>
+<img src= "eyes.png" width='500' height='300'/>
